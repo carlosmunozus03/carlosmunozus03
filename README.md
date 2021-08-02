@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/carlos-munoz-ba516a214/" target="_blank"><img align="center" src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-on-transparent-Background-PNG-.png" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/carlos-munoz-ba516a214/" target="_Blank"><img align="center" src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-on-transparent-Background-PNG-.png" height="40" width="40"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
