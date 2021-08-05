@@ -3,7 +3,7 @@
 <h3 align="center">B.S. in Nutrition with a concentration in management and quality</h3>
 
 
-- 🔭 I’m currently working on [my portfolio](#)
+- 🔭 I’m currently working on [Capstone Project (Audio Space)(#)
 
 - 🌱 I’m currently learning **Java junit test.**
 
