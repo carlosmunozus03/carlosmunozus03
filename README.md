@@ -7,7 +7,7 @@
 
 - 🔭 We finally finish oue capstone project. Yuo be able to visit it on <a href="https://audiospace.site" target="_Blank">audiospace.site</a>
 
-- 🌱 I’m currently learning **Java junit test.**
+- 🌱 I’m currently learning **More about JAVA.**
 
 - 📫 How to reach me **carlos.munoz.us03@gmail.com**
 
