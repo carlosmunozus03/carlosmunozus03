@@ -3,7 +3,9 @@
 <h3 align="center">B.S. in Nutrition with a concentration in management and quality</h3>
 
 
-- 🔭 I’m currently working on [Capstone Project (Audio Space)(#)
+- 🔭 I’m currently working on portfolio
+
+- 🔭 We finally finish oue capstone project. Yuo be able to visit it on https://audiospace.site
 
 - 🌱 I’m currently learning **Java junit test.**
 
