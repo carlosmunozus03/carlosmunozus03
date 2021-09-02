@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on portfolio
 
-- 🔭 We finally finish oue capstone project. Yuo be able to visit it on <a href="https://audiospace.site" target="_Blank">audiospace.site</a>
+- 🔭 We finally finish oue capstone project. You be able to visit it on <a href="https://audiospace.site" target="_Blank">audiospace.site</a>
 
 - 🌱 I’m currently learning **More about JAVA.**
 
