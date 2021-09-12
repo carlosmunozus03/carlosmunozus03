@@ -3,11 +3,11 @@
 <h3 align="center">B.S. in Nutrition with a concentration in management and quality</h3>
 
 
-- 🔭 I’m currently working on fix and update some projects
+- 🔭 I’m currently working on fix and update some past projects
 
 - 🔭 We finally finish oue capstone project. You be able to visit it on <a href="https://audiospace.site" target="_Blank">audiospace.site</a>
 
-- 🌱 I’m currently learning **More about front-end.**
+- 🌱 I’m currently learning **More REACT.**
 
 - 📫 How to reach me **carlos.munoz.us03@gmail.com**
 
