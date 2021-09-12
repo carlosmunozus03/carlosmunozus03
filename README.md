@@ -7,7 +7,7 @@
 
 - 🔭 We finally finish oue capstone project. You be able to visit it on <a href="https://audiospace.site" target="_Blank">audiospace.site</a>
 
-- 🌱 I’m currently learning **React.**
+- 🌱 I’m currently learning **React.**    <a href="https://reactjs.org" target="_blank"> <img src="https://reactjs.org/logo-og.png" alt="react" width="40" height="40"/> </a>
 
 - 📫 How to reach me **carlos.munoz.us03@gmail.com**
 
