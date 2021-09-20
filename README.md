@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on fix and update some past projects
 
-- 🔭 We finally finish oue capstone project. You be able to visit it on <a href="https://audiospace.site" target="_Blank">audiospace.site</a>
+- 🔭 We finally finish oue capstone project. You can see on GitHub <a href="https://github.com/AudioSpaceTeam/AudioSpaceCode" target="_Blank">AudioSpace</a>
 
 - 🌱 I’m currently learning **Reviewing Java and MySQL.**
 
