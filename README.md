@@ -7,7 +7,7 @@
 
 - 🔭 We finally finish oue capstone project. You be able to visit it on <a href="https://audiospace.site" target="_Blank">audiospace.site</a>
 
-- 🌱 I’m currently learning **Reviewing java and MySQL.**
+- 🌱 I’m currently learning **Reviewing Java and MySQL.**
 
 - 📫 How to reach me **carlos.munoz.us03@gmail.com**
 
