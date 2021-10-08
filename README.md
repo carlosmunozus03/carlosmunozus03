@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos Munoz</h1>
-<h3 align="center">A motivated full stack developer from Chile</h3>
+<h3 align="center">A motivated full stack web developer from Chile</h3>
 <h3 align="center">B.S. in Nutrition with a concentration in management and quality</h3>
 
 
