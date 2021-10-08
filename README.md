@@ -7,7 +7,7 @@
 
 - 🔭 We finally finish oue capstone project. You can see on GitHub <a href="https://github.com/AudioSpaceTeam/AudioSpaceCode" target="_Blank">AudioSpace</a>
 
-- 🌱 I’m currently learning **Reviewing Java and MySQL.**
+- 🌱 I’m currently learning **Reviewing Java, MySQL ans Spring Boot.**
 
 - 📫 How to reach me **carlos.munoz.us03@gmail.com**
 
