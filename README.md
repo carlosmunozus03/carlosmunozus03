@@ -3,7 +3,7 @@
 <h3 align="center">B.S. in Nutrition with a concentration in management and quality</h3>
 
 
-- 🔭 I’m currently working on fix and update some past projects
+- 🔭 I’m currently working on object oriented programing
 
 - 🔭 We finally finish oue capstone project. You can see on GitHub <a href="https://github.com/AudioSpaceTeam/AudioSpaceCode" target="_Blank">AudioSpace</a>
 
