@@ -11,7 +11,8 @@
 
 - 📫 How to reach me **carlos.munoz.us03@gmail.com**
 
-- ⚡ Fun fact **I started to get together with some classmates to form a musical group where I am the bass player... which led me to form my own core metal band in Knoxville, TN**
+- ⚡ Fun fact **I started to get together with some classmates to form a musical group where I am the bass player... 
+what prompted me to join a metalcore band in Knoxville, TN**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
