@@ -3,15 +3,15 @@
 <h3 align="center">B.S. in Nutrition with a concentration in management and quality</h3>
 
 
-- 🔭 I’m currently working on object oriented programing
+- 🔭 I’m currently exploring front-end oportunities
 
 - 🔭 We finally finish oue capstone project. You can see on GitHub <a href="https://github.com/AudioSpaceTeam/AudioSpaceCode" target="_Blank">AudioSpace</a>
 
-- 🌱 I’m currently learning **Reviewing Java, MySQL and Spring Boot.**
+- 🌱 I’m currently learning **Reviewing JavaScript and Angular**
 
 - 📫 How to reach me **carlos.munoz.us03@gmail.com**
 
-- ⚡ Fun fact **I started to get together with some classmates to form a musical group where I am the bass player...**
+- ⚡ Fun fact **I started to get together with some classmates to form a musical group where I am the bass player... which led me to form my own core metal band in Knoxville, TN**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
